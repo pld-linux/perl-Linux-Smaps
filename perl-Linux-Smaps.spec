@@ -8,13 +8,13 @@
 Summary:	Linux::Smaps - a Perl interface to /proc/PID/smaps
 Summary(pl.UTF-8):	Linux::Smaps - perlowy interfejs do /proc/PID/smaps
 Name:		perl-Linux-Smaps
-Version:	0.06
+Version:	0.09
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://search.cpan.org/CPAN/authors/id/O/OP/OPI/Linux-Smaps-0.06.tar.gz
-# Source0-md5:	3a99ff939e0f7df06ff3b3bdf417657d
+Source0:	http://search.cpan.org/CPAN/authors/id/O/OP/OPI/Linux-Smaps-%{version}.tar.gz
+# Source0-md5:	d8a3abec9265a0e583844dc7952e9134
 URL:		http://search.cpan.org/~opi/Linux-Smaps/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
