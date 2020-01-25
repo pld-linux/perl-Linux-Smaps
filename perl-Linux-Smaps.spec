@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Linux
 %define	pnam	Smaps
 Summary:	Linux::Smaps - a Perl interface to /proc/PID/smaps
